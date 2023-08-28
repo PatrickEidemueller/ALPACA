@@ -1,0 +1,10 @@
+# local package
+-e .
+
+# project requirements
+concretedropout
+rdkit
+modAL
+gensim
+bmdal_reg
+git+https://github.com/samoturk/mol2vec
