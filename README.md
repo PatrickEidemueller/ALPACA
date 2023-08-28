@@ -1,3 +1,18 @@
+This project, titled "ALPACA," is a collaborative endeavor undertaken as part of our Master's in Data Science program at Darmstadt University of Applied Sciences. Proposed by 'Sanofi,' our objective over the span of 6 months was to develop a framework for diverse active machine learning strategies, utilizing Python, PyTorch, and TensorFlow.
+
+Team Contributors:
+
+Lorenc Zhuka
+Huiyi Wang
+Nora Schaba
+Tim Rohwedder
+Salime Faizi
+Patrick Eidemüller
+Rehan Butt
+Julian Bayer
+
+Note: For our project, we integrated the Mol2Vec model available at https://github.com/samoturk/mol2vec/blob/master/examples/models/model_300dim.pkl. If replicating our setup, ensure this model is placed within the 'models' directory.
+
 ALPACA
 ==============================
 
